@@ -1,3 +1,5 @@
+This project is my solution of a freecodecamp challenge.
+
 # Exercise Tracker REST API
 
 #### A microservice project, part of Free Code Camp's curriculum
